@@ -14,4 +14,4 @@
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=shadow_red)](https://github.com/ROOTZLA/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=highcontrast)](https://github.com/ROOTZLA/github-readme-stats)
