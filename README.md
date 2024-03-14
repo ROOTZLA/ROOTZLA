@@ -1,4 +1,7 @@
-- 👋 Hey there!
+<div id="header" align="center">
+<h1>Hey there, I'm ROOTZLA</h1>
+</div>
+
 - I'm diving into the world of coding as a newbie student.
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
