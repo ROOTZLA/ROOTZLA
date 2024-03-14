@@ -1,4 +1,4 @@
-- #👋 Hey there!
+- 👋 Hey there!
 - I'm diving into the world of coding as a newbie student.
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
