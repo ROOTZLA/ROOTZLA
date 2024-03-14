@@ -12,4 +12,6 @@ __About me__
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
+__I'm not a wizard, I'm just learning programming__
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=highcontrast)](https://github.com/ROOTZLA/github-readme-stats)
