@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F6F72E&random=false&width=435&lines=IF+NOT+NOW%2C+WHEN%3F)](https://git.io/typing-svg)
 
+__About me__
+
 - I'm diving into the world of coding as a newbie student.
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
