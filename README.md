@@ -1,4 +1,5 @@
 <div id="header" align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4a3RoYWp5enNjOXUxcXlvN2E1YW0zbTFhaWs3czRiZGNuMm5oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHeTfHgVFPHgs/giphy.gif" width="100"/>
 <h1>Hey there, I'm ROOTZLA</h1>
 <h3>Test your luck!</h3>
 </div>
@@ -13,4 +14,4 @@
 - Someday my code will run smoother than my jokes!
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact)](https://github.com/ROOTZLA/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=vision-friendly-dark)](https://github.com/ROOTZLA/github-readme-stats)
