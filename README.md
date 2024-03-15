@@ -15,3 +15,4 @@ __About me__
 __I'm not a wizard, I'm just learning programming__
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=highcontrast)](https://github.com/ROOTZLA/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootzla&layout=compact&theme=highcontrast)]
