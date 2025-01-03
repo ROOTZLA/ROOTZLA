@@ -10,7 +10,7 @@ __About me__
 
 - I'm diving into the world of coding as a newbie student.
 - Someday my code will run smoother than my jokes!
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Tailwind, Typescript.
 
 __I'm not a wizard, I'm just learning programming__
 
